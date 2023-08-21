@@ -27,7 +27,7 @@
 
 **Les étapes d'un projet avec la méthode agile SCRUM**
 
-```
+
 #### 1 : `Sprint Planning` (pour le 1er Sprint)
 #### 2 : `Développement` (1er Sprint)
 #### 3 : `Daily Scrum`
@@ -35,7 +35,7 @@
 #### 5 : `Sprint Review`
 #### 6 : `Sprint Retrospective`
 #### 7 : `Sprints suivants`
-```
+
 
 **Les définitions de chaque étapes d'un projet avec la méthode agile SCRUM**
 
