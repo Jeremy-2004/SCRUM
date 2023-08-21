@@ -122,3 +122,5 @@ Critères d'acceptation :
                                 en les développant et en passant par les étapes de review et de rétrospective à chaque fois.**
 ##
 ![](/imgs/SCRUM2.jpg)
+
+## Vous souhaitez avoir plus d'informations ou de détails ? Voici un lien qui pourrait éventuellement vous aider -> (https://www.tuleap.org/fr/agile/comprendre-methode-agile-scrum-10-minutes)
