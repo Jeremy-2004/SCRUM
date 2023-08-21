@@ -13,13 +13,13 @@
         éléments à développer.                                  principes et les pratiques de Scrum.                    codent, testent et livrent le site
         (Product Backlog)                                       Aide l'équipe à résoudre les obstacles.                 où l'application.
 
-##
+![](/imgs/Role-scrum.jpg)
 
-### Exemple de vision de produit
+### La vision de produit
 
         Le Product Owner (P-O) identifie le besoin d'une nouvelle application mobile qui permet aux utilisateurs de créer, gérer et suivre leurs tâches quotidiennes. Cette application se distingue par sa simplicité d'utilisation et ses rappels intelligents.
         
-##
+![](/imgs/Vision-Produit.jpg)
 
 ### Exemple d'un Product Backlog
 
@@ -76,7 +76,7 @@ Critères d'acceptation :
   l'équipe de développement et le Product Owner ont la même compréhension de ce qui est attendu.
 ```
 
-##
+![](/imgs/Users-stories.jpg)
 
 ### Les étapes d'un projet avec la méthode agile SCRUM
 
@@ -121,3 +121,4 @@ Critères d'acceptation :
 `Sprints suivants` :            **L'équipe continue avec les sprints suivants en sélectionnant des éléments du Product Backlog,
                                 en les développant et en passant par les étapes de review et de rétrospective à chaque fois.**
 ##
+![](/imgs/SCRUM2.jpg)
