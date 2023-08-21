@@ -18,7 +18,7 @@
 
 ![](/imgs/Vision-Produit.jpg)
 
-        Le Product Owner (P-O) identifie le besoin d'une nouvelle application mobile qui permet aux utilisateurs de créer, gérer et suivre leurs tâches quotidiennes. Cette application se distingue par sa simplicité d'utilisation et ses rappels intelligents.
+        En méthode agile Scrum, la vision de produit est une description concise et inspirante du but ultime d'un produit. Elle donne une direction claire sur ce que le produit vise à accomplir, pour qui, et quelle valeur il apportera. La vision de produit aide à guider les décisions de développement et à aligner l'équipe sur un objectif commun.
         
 
 ### Exemple d'un Product Backlog
