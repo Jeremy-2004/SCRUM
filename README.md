@@ -1,4 +1,4 @@
-## Méthode agile SCRUM
+## Explication méthode agile SCRUM
 
 ![](/imgs/SCRUM.jpg)
 
