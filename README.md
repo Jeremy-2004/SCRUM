@@ -1,11 +1,11 @@
-## Explication méthode agile SCRUM
+### Explication méthode agile SCRUM
 
 
 ![](/imgs/SCRUM.jpg)
 
 ##
 
-## Le Projet
+### Le Projet
 
         Product Owner                                           Scrum Master                                            Equipe de devs
 
@@ -15,13 +15,13 @@
 
 ##
 
-## La vision de produit
+### La vision de produit
 
         Le Product Owner (P-O) identifie le besoin d'une nouvelle application mobile qui permet aux utilisateurs de créer, gérer et suivre leurs tâches quotidiennes. Cette application se distingue par sa simplicité d'utilisation et ses rappels intelligents.
         
 ##
 
-## Exemple d'un Product Backlog
+### Exemple d'un Product Backlog
 
         Le P-O crée un backlog initial qui pourrait inclure des éléments tels que :
 
@@ -32,7 +32,53 @@
         - Synchronisation des tâches entre plusieurs appareils
 ##
 
-## Les étapes d'un projet avec la méthode agile SCRUM
+### Exemple de Users Stories
+
+```
+1. Inscription d'un utilisateur :
+- En tant qu'utilisateur, je souhaite m'inscrire sur l'application pour avoir un compte personnel afin de gérer mes tâches quotidiennes.
+
+
+Critères d'acceptation :
+
+- Je dois fournir un email, un nom d'utilisateur et un mot de passe pour m'inscrire.
+- Je reçois un email de confirmation après mon inscription.
+- Mon mot de passe doit contenir au moins 8 caractères, dont une majuscule, une minuscule, un chiffre et un caractère spécial.
+
+2. Ajout d'une tâche :
+- En tant qu'utilisateur, je souhaite ajouter une nouvelle tâche à mon application pour m'assurer de me souvenir de mes engagements.
+
+Critères d'acceptation :
+
+- Je peux entrer le titre de la tâche.
+- Je peux définir une date d'échéance pour la tâche.
+- Une tâche ajoutée apparaît dans ma liste de tâches en cours.
+
+3. Notifications de rappel :
+- En tant qu'utilisateur, je veux recevoir une notification de rappel pour mes tâches afin de ne pas oublier de les accomplir.
+
+Critères d'acceptation :
+
+- Je reçois une notification 15 minutes avant l'heure d'échéance de la tâche.
+- Je peux activer/désactiver les notifications pour des tâches spécifiques.
+
+4. Classement des tâches :
+- En tant qu'utilisateur, je souhaite classer mes tâches en différentes catégories (par exemple, travail, personnel, courses) 
+  pour mieux organiser mon  emploi du temps.
+
+Critères d'acceptation :
+
+- Je peux créer des catégories personnalisées.
+- Je peux assigner une tâche à une ou plusieurs catégories.
+- Je peux filtrer la vue de mes tâches en fonction des catégories.
+- Ces User Stories décrivent les besoins et les désirs de l'utilisateur en termes simples et compréhensibles. 
+- Les critères d'acceptation détaillent les spécifications techniques ou les exigences pour chaque story, assurant ainsi que 
+  l'équipe de développement et le Product Owner ont la même compréhension de ce qui est attendu.
+```
+
+##
+
+### Les étapes d'un projet avec la méthode agile SCRUM
 
 
 #### 1 : `Sprint Planning` (pour le 1er Sprint)
@@ -44,7 +90,7 @@
 #### 7 : `Sprints suivants`
 ##
 
-## Les définitions de chaque étapes d'un projet avec la méthode agile SCRUM
+### Les définitions de chaque étapes d'un projet avec la méthode agile SCRUM
 
 `Sprint Planning` :             **L'équipe, le Scrum Master et le P-O se réunissent pour le Sprint Planning. 
                                 Ils décident de se concentrer sur les fonctionnalités d'inscription, de connexion et de gestion basique des tâches pour le      premier sprint. 
