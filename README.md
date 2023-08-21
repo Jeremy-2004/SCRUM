@@ -54,6 +54,10 @@
 `Fin du Sprint` :               À la fin des deux semaines, l'équipe a une version de l'application/site avec les éléments du backlog initial.
 
 
+
+
+
+
 `Sprint Review` :               L'équipe présente ce qu'elle a accompli pendant le sprint au P-O et aux parties prenantes. 
                                 Ils fournissent des retours, qui peuvent influencer le contenu du Product Backlog pour les prochains sprints.
 
