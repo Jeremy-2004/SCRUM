@@ -39,7 +39,6 @@
 
 **Les définitions de chaque étapes d'un projet avec la méthode agile SCRUM**
 
-```
 `Sprint Planning` :             L'équipe, le Scrum Master et le P-O se réunissent pour le Sprint Planning. 
                                 Ils décident de se concentrer sur les fonctionnalités d'inscription, de connexion et de gestion basique des tâches pour le      premier sprint. 
                                 Ces éléments sont alors transférés du Product Backlog au Sprint Backlog.
@@ -65,4 +64,3 @@
 
 `Sprints suivants` :            L'équipe continue avec les sprints suivants en sélectionnant des éléments du Product Backlog,
                                 en les développant et en passant par les étapes de review et de rétrospective à chaque fois.
-```
