@@ -15,7 +15,7 @@
 
 ##
 
-### La vision de produit
+### Exemple de vision de produit
 
         Le Product Owner (P-O) identifie le besoin d'une nouvelle application mobile qui permet aux utilisateurs de créer, gérer et suivre leurs tâches quotidiennes. Cette application se distingue par sa simplicité d'utilisation et ses rappels intelligents.
         
