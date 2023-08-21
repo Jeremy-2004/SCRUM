@@ -1,11 +1,11 @@
-### Explication méthode agile SCRUM
-
-
 ![](/imgs/SCRUM.jpg)
 
-##
+## Explication méthode agile SCRUM
+
 
 ### Le Projet
+
+![](/imgs/Role-scrum.jpg)
 
         Product Owner                                           Scrum Master                                            Equipe de devs
 
@@ -13,13 +13,13 @@
         éléments à développer.                                  principes et les pratiques de Scrum.                    codent, testent et livrent le site
         (Product Backlog)                                       Aide l'équipe à résoudre les obstacles.                 où l'application.
 
-![](/imgs/Role-scrum.jpg)
 
 ### La vision de produit
 
+![](/imgs/Vision-Produit.jpg)
+
         Le Product Owner (P-O) identifie le besoin d'une nouvelle application mobile qui permet aux utilisateurs de créer, gérer et suivre leurs tâches quotidiennes. Cette application se distingue par sa simplicité d'utilisation et ses rappels intelligents.
         
-![](/imgs/Vision-Produit.jpg)
 
 ### Exemple d'un Product Backlog
 
@@ -33,6 +33,8 @@
 ##
 
 ### Exemple de Users Stories
+
+![](/imgs/Users-stories.jpg)
 
 ```
 1. Inscription d'un utilisateur :
@@ -75,8 +77,6 @@ Critères d'acceptation :
 - Les critères d'acceptation détaillent les spécifications techniques ou les exigences pour chaque story, assurant ainsi que 
   l'équipe de développement et le Product Owner ont la même compréhension de ce qui est attendu.
 ```
-
-![](/imgs/Users-stories.jpg)
 
 ### Les étapes d'un projet avec la méthode agile SCRUM
 
