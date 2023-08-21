@@ -7,7 +7,7 @@
 
 ## Le Projet
 
-        `Product Owner`                                         `Scrum Master`                                          `Equipe de devs`
+        **Product Owner**                                       **Scrum Master**                                        **Equipe de devs**
 
         Il determine la priorité des                            Veille à ce que l'équipe suive les                      Groupe de développeur qui conçoivent,
         éléments à développer.                                  principes et les pratiques de Scrum.                    codent, testent et livrent le site
